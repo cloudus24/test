@@ -1,6 +1,6 @@
 // src/pages/index.tsx
 
-import New from '../pages/new';
+import New from '../components/new';
 
 
 const Home = () => {

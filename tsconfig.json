@@ -21,7 +21,7 @@
   },
   "include": [
     "src/**/*"
-  ], 
+, "eslint.config.js", "public/embed-widget.js"  ], 
   "exclude": [
     "node_modules",
     ".next",
