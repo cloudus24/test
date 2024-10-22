@@ -65,6 +65,7 @@
     "@types/react-simple-maps": "^3.0.6",
     "@types/react-slick": "^0.23.13",
     "@types/stripe": "^8.0.416",
+    "eslint": "^9.13.0",
     "typescript": "^5.5.4"
   }
 }
